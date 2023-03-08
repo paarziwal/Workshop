@@ -1,0 +1,15 @@
+body {
+  background-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKqSb3ApFNSNvRKZ68e7-9-cbIa4DA30olA&usqp=CAU";
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: #be1b1b; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
